@@ -12,9 +12,9 @@ In this assignment, you'll create a Python script to perform a sentiment analysi
 
 Your final output should provide a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: **BBC, CBS, CNN, Fox, and New York times**.
 
-![output_10_0.png](Images/output_10_0.png)
+![output_10_0.png](images/output_10_0.png)
 
-![output_13_1.png](Images/output_13_1.png)
+![output_13_1.png](images/output_13_1.png)
 
 The first plot will be and/or feature the following:
 
@@ -43,4 +43,4 @@ As final considerations:
 
 ## Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
+Data Boot Camp Â© 2018. All Rights Reserved.
